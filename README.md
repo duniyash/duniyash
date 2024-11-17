@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachindu Jayasinghe</h1>
-<h3 align="center">A passionate UX Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Undergraduate UX Engineer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
