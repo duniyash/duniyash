@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sachindu Jayasinghe</h1>
 <h3 align="center">A passionate UX Engineer from Sri Lanka</h3>
 
+- 🔭 I’m currently working on **my portfolio**
+
+- 👨‍💻 All of my projects will be available at [https://duniyash.com](https://duniyash.com)
+
+- 💬 Ask me about **React, UX Principles and everything in between!**
+
+- 📫 How to reach me **duniyash@gmail.com**
+
 - ⚡ Fun fact **I compose and arrange music for choirs!**
 
 <h3 align="left">Connect with me:</h3>
