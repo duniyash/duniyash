@@ -26,7 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duniyash&show_icons=true&locale=en&layout=compact" alt="duniyash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duniyash&show_icons=true&locale=en" alt="duniyash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duniyash&" alt="duniyash" /></p>
 
