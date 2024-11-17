@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duniyash&label=Profile%20views&color=0e75b6&style=flat" alt="duniyash" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio, my undergraduate thesis & a Minecraft Bot based on lua that can predict the biome you're in**
 
 - 👨‍💻 All of my projects will be available at [https://duniyash.com](https://duniyash.com)
 
